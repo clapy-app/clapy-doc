@@ -56,9 +56,9 @@ Any opinion about how files should be structured? [Please let us know](https://c
 
 ### Naming conventions
 
-All **components** are named using the name of the corresponding Figma node, following the upper-case CamelCase convension.
+All **components** are named using the name of the corresponding Figma element, following the upper-case CamelCase convension.
 
-Similarly, on each node, **classNames**, other **properties** and **variables** are deduced from the corresponding Figma node, using the lower-case camelCase convension.
+Similarly, on each node, **classNames**, other **properties** and **variables** are deduced from the corresponding Figma element, using the lower-case camelCase convension.
 
 For SVGs, an “Icon” suffix is added to the SVG name.
 

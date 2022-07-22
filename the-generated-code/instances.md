@@ -176,7 +176,7 @@ Usage:
 
 ### Special case: SVG
 
-When a Figma node exported as SVG is customized in an instance, Clapy exports the new SVG with overrides, and pass it to the instance leveraging the _swap_ feature described above (render prop).
+When a Figma element exported as SVG is customized in an instance, Clapy exports the new SVG with overrides, and pass it to the instance leveraging the _swap_ feature described above (render prop).
 
 ### Sub-instances
 
