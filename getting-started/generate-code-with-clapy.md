@@ -30,6 +30,10 @@ If you are not an editor, ask someone with the `editor` role to click on the "sh
 
 ![Update editor role in Figma](<../.gitbook/assets/update editor role in Figma.png>)
 
+{% hint style="info" %}
+A workaround is to duplicate the Figma file. As owner of the copy, you can open plugins. But you won't get updates from the original file. Don't use it in productivity workflows!
+{% endhint %}
+
 Once you have the editor rights, click on the `Resources` icon next to the `Text` icon, then open open the `Plugins` tab, hover the plugin Clapy and click <mark style="background-color:blue;">Run</mark> .
 
 ![Figma has made it easy to find and run plugins within the interface](<../.gitbook/assets/image (5).png>)
