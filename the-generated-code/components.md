@@ -46,7 +46,7 @@ export const Card: FC<Props> = memo(function Card(props = {}) {
 `Card` is defined twice: as the exported variable name and the inner function.
 
 * The exported variable is required for named exports.
-* The inner function is named (instead of anonymous) to name the component function, which helps showing better stack traces when debugging. This practice is enforced by the ESLint config included in the project.
+* The inner function is named (instead of anonymous) to name the component function, which helps showing better stack traces when debugging. This practice can be enforced by an ESLint config.
 
 ### Imports ending with .js
 
