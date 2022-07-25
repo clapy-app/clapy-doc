@@ -90,6 +90,10 @@ Example: let’s say a Button contains an ArrowIcon. We get the structure:
 
 Images are extracted from Figma and added to the source code in the `public` directory.
 
+When the CSS points to an image (e.g. background-image url), it uses the relative link that will be correct at runtime, in the browser. Not the relative path in the source code between the CSS file and the asset file. Bundlers should leave those URLs as they are.
+
+Any issue with it? Please let us know!
+
 #### Global resets
 
 `src/resets.css` contains global CSS rules to have defaults closer to the Figma behavior.
