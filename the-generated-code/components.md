@@ -48,6 +48,24 @@ export const Card: FC<Props> = memo(function Card(props = {}) {
 * The exported variable is required for named exports.
 * The inner function is named (instead of anonymous) to name the component function, which helps showing better stack traces when debugging. This practice is enforced by the ESLint config included in the project.
 
+### Imports ending with .js
+
+In TypeScript, imports of other TypeScript files typically don't have extensions. E.g.:
+
+```typescript
+import { Dropdown } from './Dropdown';
+```
+
+It's an assumption TypeScript has made in its early days, but not the final standard of EcmaScript modules. [For unclear reasons](https://github.com/microsoft/TypeScript/issues/16577#issuecomment-754941937) (at least for me), the TypeScript transpilation to JavaScript doesn't add the .js extension.
+
+To be able to bundle in ES module format and be compatible with the latest standards and usages around ES modules, the recommendation is to append a ".js" extension to imports (yes, even if pointing to a TypeScript file). E.g.:
+
+```typescript
+import { Dropdown } from './Dropdown.js';
+```
+
+That's the practice Clapy has adopted in the generated code.
+
 ### Annotation @figmaId
 
 This annotation is added in a comment above the component. Please leave it as it is. In an incoming release, we will use it to map a coded component to the corresponding Figma node, e.g. for updates.
