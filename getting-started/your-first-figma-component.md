@@ -1,6 +1,8 @@
 # Your first Figma component
 
+{% hint style="info" %}
 If you already have a Figma design, you can skip this section and directly head to the next one: [Generate code with Clapy](generate-code-with-clapy.md).
+{% endhint %}
 
 If you don't have Figma designs yet, this sections helps you setup your first design, ready to be converted into code with Clapy.
 
