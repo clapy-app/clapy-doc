@@ -6,7 +6,7 @@ In Figma, components ...
 
 They can be simple buttons,&#x20;
 
-![Source: Atomic Design by Brad Frost (@brad\_frost)](<../.gitbook/assets/image (2).png>)
+![Source: Atomic Design by Brad Frost (@brad\_frost)](<../.gitbook/assets/image (5).png>)
 
 ### Useful resources
 

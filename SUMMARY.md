@@ -17,7 +17,8 @@
 ## 🖌 Figma Basics
 
 * [Components](figma-basics/components.md)
-* [Auto layout](figma-basics/auto-layout.md)
+* [Groups vs Frames](figma-basics/groups-vs-frames.md)
+* [Add auto-layout in Frames](figma-basics/add-auto-layout-in-frames.md)
 
 ## ℹ Extras
 
