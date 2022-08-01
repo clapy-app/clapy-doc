@@ -25,4 +25,7 @@
 * [Changelog](extras/changelog/README.md)
   * [25/07/2022](extras/changelog/25-07-2022.md)
   * [15/07/2022](extras/changelog/15-07-2022.md)
-* [⬅ Back to clapy.co](extras/back-to-clapy.co.md)
+
+***
+
+* [⬅ Back to clapy.co](https://clapy.co/)
