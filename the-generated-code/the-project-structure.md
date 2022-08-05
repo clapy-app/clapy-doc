@@ -10,13 +10,27 @@ description: >-
 Any question about the design decisions? Anything not matching your project practices? [Please let us know](https://clapy.co/contact)! we may add an option for the flexibility you need.
 {% endhint %}
 
+### Frameworks
+
+Two frameworks are available: **React** and **Augular** (alpha).
+
+Angular does not yet has all the features available in React (e.g. customizable components).
+
 ### Base template
 
-By default, the project is uploaded on [Codesandbox](https://codesandbox.io/) for a super fast preview without needing to install anything. The project uses create-react-app, which is better supported on Codesandbox.
+By default, the project is uploaded on [Codesandbox](https://codesandbox.io/) for a super fast preview without needing to install anything.
+
+All projects use [TypeScript](https://www.typescriptlang.org/) to type your variables.
+
+#### React
+
+The project uses create-react-app, which is better supported on Codesandbox.
 
 If you decide to download as a zip instead, the project uses [ViteJS](https://vitejs.dev/) for crazy fast development builds.
 
-All projects use [TypeScript](https://www.typescriptlang.org/) to type your variables.
+#### Angular
+
+The project uses the Angular CLI template.
 
 ### Files structure
 
@@ -56,7 +70,7 @@ Any opinion about how files should be structured? [Please let us know](https://c
 
 ### Naming conventions
 
-All **components** are named using the name of the corresponding Figma element, following the upper-case CamelCase convension.
+All **components** are named using the name of the corresponding Figma element, following the upper-case CamelCase convention.
 
 Similarly, on each node, **classNames**, other **properties** and **variables** are deduced from the corresponding Figma element, using the lower-case camelCase convension.
 
@@ -76,15 +90,21 @@ Styles are provided as CSS modules and located next to the component. Example:
 
 ### SVG
 
-Shapes on Figma (rectangles, stars, vectors…) are converted to SVG files, bundled into a React component.
+Shapes on Figma (rectangles, stars, vectors…) are converted to SVG files
 
-SVG components are located in the same directory as the React component using them.
+#### React
+
+SVGs are bundled into a React component. They are located in the same directory as the React component using them.
 
 Example: let’s say a Button contains an ArrowIcon. We get the structure:
 
 * src/components/Button (directories)
   * ArrowIcon.tsx (file)
   * Button.tsx (file)
+
+#### In Angular, SVGs
+
+SVGs are kept in `.svg` files, located in `src/assets`. They are displayed using the `<img />` tag.
 
 ### Images
 

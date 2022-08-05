@@ -12,6 +12,8 @@ Any question about the design decisions? Anything not matching your project prac
 
 At Clapy, we are proud to be the first tool generating code from Figma with instances of components and overrides. We consider customizable components to be the bottom line of production-ready code.
 
+For now, component overrides are only available in React.
+
 ### Overrides
 
 If a frame contains multiple instances of a Button component, with customizations done on some of them (color, text…), we generate a single Button component. Instances refer to this component, passing properties that apply the customizations, we call _overrides_ in this article.

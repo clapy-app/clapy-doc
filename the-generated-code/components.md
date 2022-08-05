@@ -15,11 +15,13 @@ Any question about the design decisions? Anything not matching your project prac
 
 [They are described here](the-project-structure.md#naming-conventions).
 
-### Functional components
+### React-specific practices
+
+#### Functional components
 
 Clapy components are written using functions. Most modern React code is written using functions and hooks. It can remain simple and most libraries will provide their features as [hooks](https://reactjs.org/docs/hooks-overview.html#but-what-is-a-hook) rather [HOC](https://reactjs.org/docs/higher-order-components.html) or other class-specific implementations.
 
-### Memoization
+#### Memoization
 
 We consider components should be memoized by default, which should be beneficial in most cases. If it appears to have a negative impact on specific scenarios, the impact remains very small and memoization can be removed in that case.
 
@@ -27,15 +29,15 @@ Find out more here: [https://stackoverflow.com/a/63405621/4053349](https://stack
 
 For this reason, all generated components are wrapped into `memo()`.
 
-### Interfaces
+#### Interfaces
 
 All properties exposed by the component for overrides are listed in the component `Props`’ interface. Please refer to the [instances article](instances.md) for more details about the overrides.
 
-### Named exports
+#### Named exports
 
 All components use named exports. While many examples on Internet use default exports, named exports have more benefits, e.g. in terms of usage (auto-import, auto-completion from IDEs) and performance (considering ES6 modules and tree shaking).
 
-### Variable name and function name
+#### Variable name and function name
 
 ```tsx
 export const Card: FC<Props> = memo(function Card(props = {}) {
