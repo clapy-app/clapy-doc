@@ -118,6 +118,13 @@ Any issue with it? Please let us know!
 
 `src/resets.css` contains global CSS rules to have defaults closer to the Figma behavior.
 
+### Fonts
+
+Font families are imported from Google Fonts based on the font names used in Figma. It has two consequences on the generated project:
+
+* Fonts not available on Google Fonts won't render in the preview. It is your responsibility to include and import them in the final project with a [@font-face](https://developer.mozilla.org/fr/docs/Web/CSS/@font-face).
+* The `font-family` names in `@font-face` must match the official font names, as they appear in Figma and the OS. Otherwise, components won't be able to refer to them (they use the names from Figma).
+
 ### Other tools in the project
 
 ESLint and Prettier are included for opinionated code linting and formatting.
