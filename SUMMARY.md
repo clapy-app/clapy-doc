@@ -29,4 +29,4 @@
 
 ***
 
-* [⬅ Back to clapy.co](https://clapy.co/)
+* [Back to clapy.co](https://clapy.co/)
