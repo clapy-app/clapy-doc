@@ -2,13 +2,13 @@
 
 * [Introduction](README.md)
 
-## 🚀 Getting started
+## 🚀 Get started
 
-* [1⃣ Install the plugin](getting-started/install-the-plugin.md)
-* [2⃣ Load Clapy in your file](getting-started/load-clapy-in-your-file.md)
-* [3⃣ Sign in/up to Clapy](getting-started/sign-in-up-to-clapy.md)
-* [4⃣ Get code in 1 click](getting-started/get-code-in-1-click.md)
-* [Online code preview/editor, Github, and more](getting-started/online-code-preview-editor-github-and-more.md)
+* [1⃣ Install the plugin](get-started/install-the-plugin.md)
+* [2⃣ Load Clapy in your file](get-started/load-clapy-in-your-file.md)
+* [3⃣ Sign in/up to Clapy](get-started/sign-in-up-to-clapy.md)
+* [4⃣ Get code in 1 click](get-started/get-code-in-1-click.md)
+* [Online code preview/editor, Github, and more](get-started/online-code-preview-editor-github-and-more.md)
 
 ## ⚙ The generated code
 
