@@ -4,8 +4,11 @@
 
 ## 🚀 Getting started
 
-* [Your first Figma component](getting-started/your-first-figma-component.md)
-* [Generate code with Clapy](getting-started/generate-code-with-clapy.md)
+* [Step 1: Install the plugin](getting-started/step-1-install-the-plugin.md)
+* [Step 2: Load Clapy in your file](getting-started/step-2-load-clapy-in-your-file.md)
+* [Step 3: Sign in/up to Clapy](getting-started/step-3-sign-in-up-to-clapy.md)
+* [Step 4: Get code in 1 click](getting-started/step-4-get-code-in-1-click.md)
+* [Online code preview/editor, Github, and more](getting-started/online-code-preview-editor-github-and-more.md)
 
 ## ⚙ The generated code
 
@@ -17,8 +20,9 @@
 ## 🖌 Figma Basics
 
 * [Components](figma-basics/components.md)
-* [Groups vs Frames](figma-basics/groups-vs-frames.md)
+* [Your first Figma component](figma-basics/your-first-figma-component.md)
 * [Add auto-layout in Frames](figma-basics/add-auto-layout-in-frames.md)
+* [Groups vs Frames](figma-basics/groups-vs-frames.md)
 
 ## ℹ Extras
 
