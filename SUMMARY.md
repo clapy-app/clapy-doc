@@ -4,10 +4,10 @@
 
 ## 🚀 Getting started
 
-* [Step 1: Install the plugin](getting-started/step-1-install-the-plugin.md)
-* [Step 2: Load Clapy in your file](getting-started/step-2-load-clapy-in-your-file.md)
-* [Step 3: Sign in/up to Clapy](getting-started/step-3-sign-in-up-to-clapy.md)
-* [Step 4: Get code in 1 click](getting-started/step-4-get-code-in-1-click.md)
+* [1⃣ Install the plugin](getting-started/install-the-plugin.md)
+* [2⃣ Load Clapy in your file](getting-started/load-clapy-in-your-file.md)
+* [3⃣ Sign in/up to Clapy](getting-started/sign-in-up-to-clapy.md)
+* [4⃣ Get code in 1 click](getting-started/get-code-in-1-click.md)
 * [Online code preview/editor, Github, and more](getting-started/online-code-preview-editor-github-and-more.md)
 
 ## ⚙ The generated code

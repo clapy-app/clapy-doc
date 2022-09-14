@@ -1,7 +1,7 @@
 # Your first Figma component
 
 {% hint style="info" %}
-If you already have a Figma design, you can skip this section and directly head to the next one: [Generate code with Clapy](../getting-started/step-1-install-the-plugin.md).
+If you already have a Figma design, you can skip this section and directly head to the next one: [Generate code with Clapy](../getting-started/install-the-plugin.md).
 {% endhint %}
 
 If you don't have Figma designs yet, this sections helps you setup your first design, ready to be converted into code with Clapy.
@@ -64,5 +64,5 @@ We are almost done! Select your outer frame again, and you will see at the top o
 
 Awesome. Finally, right-click on your button and click `Create component`. And thats all!
 
-Congratulations! We've created our first component, [ready to be turned into code by Clapy](../getting-started/step-1-install-the-plugin.md). 🥳
+Congratulations! We've created our first component, [ready to be turned into code by Clapy](../getting-started/install-the-plugin.md). 🥳
 
