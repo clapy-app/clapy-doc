@@ -4,7 +4,7 @@
 
 **Clapy** is a [Figma plugin](https://www.figma.com/community/plugin/1083031796594968801) allowing you to generate React components from your Figma designs.
 
-Watch our demo or follow our guide to [Broken link](broken-reference "mention") with Clapy!
+Watch our demo or follow our guide to [Get started](broken-reference) with Clapy!
 
 {% embed url="https://www.youtube.com/watch?v=J4u2uuJdT-A" %}
 Quick demo of Clapy, the Figma-to-code generator
