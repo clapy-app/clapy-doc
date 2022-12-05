@@ -24,10 +24,6 @@ With its developer-centric features, Clapy can be used for following use cases:
 
 Before generating the code, you have a couple of options.
 
-#### Export as full width/height
-
-
-
 #### Full width/height
 
 If enabled, the selected element will be stretched to use all width and height available, even if "Fill container" is not configured. Useful for top-level frames. If generating a page, this is likely the expected behavior.
