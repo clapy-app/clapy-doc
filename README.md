@@ -1,4 +1,4 @@
-# Introduction
+# [Introduction](https://docs.clapy.co/)
 
 **Clapy** is a [Figma plugin](https://www.figma.com/community/plugin/1083031796594968801) allowing you to generate React components from your Figma designs.
 
