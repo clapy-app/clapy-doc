@@ -10,19 +10,20 @@
 * [4⃣ Get code in 1 click](get-started/get-code-in-1-click.md)
 * [Online code preview/editor, Github, and more](get-started/online-code-preview-editor-github-and-more.md)
 
-## ⚙ The generated code
-
-* [The project structure](the-generated-code/the-project-structure.md)
-* [Components](the-generated-code/components.md)
-* [Instances](the-generated-code/instances.md)
-* [Figma Tokens integration](the-generated-code/figma-tokens-integration.md)
-
 ## 🖌 Figma Basics
 
 * [Components](figma-basics/components.md)
 * [Your first Figma component](figma-basics/your-first-figma-component.md)
 * [Add auto-layout in Frames](figma-basics/add-auto-layout-in-frames.md)
 * [Groups vs Frames](figma-basics/groups-vs-frames.md)
+
+## ⚙ The generated code
+
+* [The project structure](the-generated-code/the-project-structure.md)
+* [Components](the-generated-code/components.md)
+* [Instances](the-generated-code/instances.md)
+* [Figma Tokens integration](the-generated-code/figma-tokens-integration.md)
+* [Responsive code](the-generated-code/responsive-code.md)
 
 ## ℹ Extras
 
