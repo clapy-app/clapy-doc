@@ -31,3 +31,4 @@
   * [01/08/2022](extras/changelog/01-08-2022.md)
   * [25/07/2022](extras/changelog/25-07-2022.md)
   * [15/07/2022](extras/changelog/15-07-2022.md)
+* [Github](https://github.com/clapy-app/clapy-plugin)
