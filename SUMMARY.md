@@ -4,20 +4,20 @@
 
 ## 🚀 Get started
 
-* [1⃣ Install the plugin](get-started/install-the-plugin.md)
-* [2⃣ Load Clapy in your file](get-started/load-clapy-in-your-file.md)
-* [3⃣ Sign in/up to Clapy](get-started/sign-in-up-to-clapy.md)
-* [4⃣ Get code in 1 click](get-started/get-code-in-1-click.md)
+* [1️⃣ Install the plugin](get-started/install-the-plugin.md)
+* [2️⃣ Load Clapy in your file](get-started/load-clapy-in-your-file.md)
+* [3️⃣ Sign in/up to Clapy](get-started/sign-in-up-to-clapy.md)
+* [4️⃣ Get code in 1 click](get-started/get-code-in-1-click.md)
 * [Online code preview/editor, Github, and more](get-started/online-code-preview-editor-github-and-more.md)
 
-## 🖌 Figma Basics
+## 🖌️ Figma Basics
 
 * [Components](figma-basics/components.md)
 * [Your first Figma component](figma-basics/your-first-figma-component.md)
 * [Add auto-layout in Frames](figma-basics/add-auto-layout-in-frames.md)
 * [Groups vs Frames](figma-basics/groups-vs-frames.md)
 
-## ⚙ The generated code
+## ⚙️ The generated code
 
 * [The project structure](the-generated-code/the-project-structure.md)
 * [Components](the-generated-code/components.md)
@@ -25,7 +25,7 @@
 * [Figma Tokens integration](the-generated-code/figma-tokens-integration.md)
 * [Responsive code](the-generated-code/responsive-code.md)
 
-## ℹ Extras
+## ℹ️ Extras
 
 * [Changelog](extras/changelog/README.md)
   * [01/08/2022](extras/changelog/01-08-2022.md)

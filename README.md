@@ -1,5 +1,13 @@
 # Introduction
 
+## Important notice
+
+Clapy has stopped operating. We are thankful for your support. After years of generating projects code from design, it's time to move forward.
+
+***
+
+
+
 **Clapy** is a [Figma plugin](https://www.figma.com/community/plugin/1083031796594968801) allowing you to generate React components from your Figma designs.
 
 Watch our demo or follow our guide to [Get started](broken-reference) with Clapy!
